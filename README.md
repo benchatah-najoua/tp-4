@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Creative Recipe Builder
+
+## Description
+Application React pour gérer des recettes de cuisine.
+
+## Résultat du projet
+
+![Résultat du projet](./public/img1.png)
+
+![Résultat du projet](./public/img2.png)
+
+## Technologies utilisées
+- React
+- JavaScript
+- CSS
