@@ -1,10 +1,10 @@
 import { useState } from "react";
 
-import RecipeList from "./components/RecipeList";
-import RecipeForm from "./components/RecipeForm";
-import RecipeFilter from "./components/RecipeFilter";
-import Pagination from "./components/Pagination";
-import Aide from "./components/Aide";
+import RecipeList from "./components/RecipeList.jsx";
+import RecipeForm from "./components/RecipeForm.jsx";
+import RecipeFilter from "./components/RecipeFilter.jsx";
+import Pagination from "./components/Pagination.jsx";
+import Aide from "./components/Aide.jsx";
 
 function MainPage() {
   const [recipes, setRecipes] = useState([
